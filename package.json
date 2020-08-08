@@ -1,0 +1,26 @@
+{
+  "name": "xiaoniangao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yooki",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "mongodb": "^3.5.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yooki0328/xiaoniangao_crawler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yooki0328/xiaoniangao_crawler/issues"
+  },
+  "homepage": "https://github.com/yooki0328/xiaoniangao_crawler#readme",
+  "description": ""
+}
